@@ -11,8 +11,8 @@ Integradora-Proyecto/NombreProyecto<br>
 
 
 ## Equipo de Desarrollo
-| Responsable | Puesto | Contacto | Observaciones |
+| Responsable | Contacto | Rol | Observaciones |
 |-------------|--------|----------|---------------|
-|Karen Lizbeth Negrete Hernández|@karenNegrete06|Líder de Documentación|✅ Revisado y aprobado.|
-|Abril Guzman Barrera|@Abrilgb|Documentador|❎ No ha realizado cambios.|
-|Uriel Abdallah Medina Torres|@UrielMedina0302|Documentador|❎ No ha realizado cambios.|
+|Karen Lizbeth Negrete Hernández|[@karenNegrete06](https://github.com/karenNegrete06)|Líder de Documentación|✅ Revisado y aprobado.|
+|Abril Guzman Barrera|[@Abrilgb](https://github.com/Abrilgb)|Documentador|❎ No ha realizado cambios.|
+|Uriel Abdallah Medina Torres|[@UrielMedina0302](https://github.com/UrielMedina0302)|Documentador|❎ No ha realizado cambios.|
